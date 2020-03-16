@@ -15,11 +15,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+
       "projectUniqueName": "D:\\Cekowia\\CekovicWebTechnologi\\Cekovic.API\\Cekovic.API.csproj",
       "projectName": "Cekovic.API",
       "projectPath": "D:\\Cekowia\\CekovicWebTechnologi\\Cekovic.API\\Cekovic.API.csproj",
       "packagesPath": "C:\\Users\\lewko\\.nuget\\packages\\",
       "outputPath": "D:\\Cekowia\\CekovicWebTechnologi\\Cekovic.API\\obj\\",
+
+      "projectUniqueName": "D:\\Cekowia\\Cekovic\\Cekovic.API\\Cekovic.API.csproj",
+      "projectName": "Cekovic.API",
+      "projectPath": "D:\\Cekowia\\Cekovic\\Cekovic.API\\Cekovic.API.csproj",
+      "packagesPath": "C:\\Users\\lewko\\.nuget\\packages\\",
+      "outputPath": "D:\\Cekowia\\Cekovic\\Cekovic.API\\obj\\",
+
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
